@@ -1,0 +1,29 @@
+{
+  "name": "playwright-agents-automation",
+  "version": "1.0.0",
+  "description": "Playwright-Agents-Automation",
+  "main": "index.js",
+  "scripts": {
+    "test:auth": "playwright test tests/authentication.spec.ts",
+    "test:catalog": "playwright test tests/catalog.spec.ts",
+    "typecheck": "tsc --noEmit"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/priyanka5sep/Playwright-Agents-Automation.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/priyanka5sep/Playwright-Agents-Automation/issues"
+  },
+  "homepage": "https://github.com/priyanka5sep/Playwright-Agents-Automation#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.64.0",
+    "@types/node": "^26.6.5",
+    "dotenv": "^18.0.7",
+    "typescript": "^7.0.2"
+  }
+}
