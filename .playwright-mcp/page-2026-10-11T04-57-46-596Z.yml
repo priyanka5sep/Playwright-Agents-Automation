@@ -1,0 +1,47 @@
+- generic [ref=e273]:
+  - generic [ref=e274]:
+    - banner [ref=e275]:
+      - generic [ref=e276]:
+        - generic [ref=e277]:
+          - button "Open Menu" [ref=e278] [cursor=pointer]
+          - img "Open Menu" [ref=e279]
+        - generic [ref=e280]: Swag Labs
+        - button "Cart, 1 items" [ref=e283]:
+          - generic [ref=e284]: "1"
+      - generic [ref=e285]: "Checkout: Overview"
+    - main [ref=e287]:
+      - generic [ref=e288]:
+        - generic [ref=e289]:
+          - generic [ref=e290]: QTY
+          - generic [ref=e291]: Description
+          - generic [ref=e292]:
+            - generic [ref=e293]: "1"
+            - generic [ref=e294]:
+              - button "View details for Sauce Labs Bike Light" [ref=e295] [cursor=pointer]:
+                - generic [ref=e296]: Sauce Labs Bike Light
+              - generic [ref=e297]: A red light isn't the desired state in testing but it sure helps when riding your bike at night. Water-resistant with 3 lighting modes, 1 AAA battery included.
+              - generic [ref=e298]: $9.99
+        - generic [ref=e300]:
+          - generic [ref=e301]: "Payment Information:"
+          - generic [ref=e302]: "SauceCard #31337"
+          - generic [ref=e303]: "Shipping Information:"
+          - generic [ref=e304]: Free Pony Express Delivery!
+          - generic [ref=e305]: Price Total
+          - generic [ref=e306]: "Item total: $9.99"
+          - generic [ref=e307]: "Tax: $0.80"
+          - generic [ref=e308]: "Total: $10.79"
+          - generic [ref=e309]:
+            - button "Cancel" [ref=e310] [cursor=pointer]
+            - button "Finish" [ref=e311] [cursor=pointer]
+  - contentinfo [ref=e312]:
+    - list [ref=e313]:
+      - listitem [ref=e314]:
+        - link "X" [ref=e315] [cursor=pointer]:
+          - /url: https://x.com/saucelabs
+      - listitem [ref=e316]:
+        - link "Facebook" [ref=e317] [cursor=pointer]:
+          - /url: https://www.facebook.com/saucelabs
+      - listitem [ref=e318]:
+        - link "LinkedIn" [ref=e319] [cursor=pointer]:
+          - /url: https://www.linkedin.com/company/sauce-labs/
+    - generic [ref=e320]: © 2026 Sauce Labs. All Rights Reserved. Terms of Service | Privacy Policy
