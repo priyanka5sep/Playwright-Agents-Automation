@@ -1,0 +1,33 @@
+Agent name : Planner  : select playwright-test-palnnner agent from copilot chat windows.
+prompt :
+      create comprehensive test plan for given website and cover all positive and negative test
+      scenarios.
+
+
+##############################################
+Agent : playwright-test-Planner
+Prompt: 
+
+- impliment automation code for ### 1. Authentication
+- Create a page object model framework, and follow all coding standard.
+- Make sure to createa all required folders on same level , don't create pages or other folder inside tests folder.
+- Read test data from json file.
+- Read variable from environement file
+- create fixture and configure to test cases.
+- Create a page manager htrough which user can access the pages in the automation framework.
+
+
+Create page object model framework and update the files accordingly.
+project folder structure heirarchy should be
+
+Playwright-Agents-Automation
+tests
+pages
+testdata
+fixture
+test-results
+docs
+
+
+agent : healer
+prompt : run test cases and fix failures.
